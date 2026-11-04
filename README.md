@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Tree
@@ -22,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -29,4 +32,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
