@@ -11,19 +11,19 @@
  */
 class Solution {
 public:
- 
+   bool flag = false;
    bool isPresent(TreeNode* root, int k , unordered_map<int ,int>&mp){
     if( root == nullptr)return false;
-    if(isPresent( root->left , k , mp )){
-        return true;
-    };
+    isPresent( root->left , k , mp );
     if( mp.count( k - root->val)){
-      
-        return true ;
+        flag = true;
+        if(flag){
+            return true;
+        };
     }
     mp[root->val]++;
-    return isPresent(root->right , k , mp );
-    
+    isPresent(root->right , k , mp );
+    return flag;
    }
     bool findTarget(TreeNode* root, int k) {
         unordered_map<int ,int>mp;
