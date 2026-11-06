@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -53,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0897-increasing-order-search-tree/) | Easy |
