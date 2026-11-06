@@ -14,10 +14,10 @@ public:
    int sum = 0 ;
     void helper(TreeNode* root ){
         if( root == nullptr)return ;
-         convertBST( root ->right);
+         helper ( root ->right);
         sum +=root->val;
         root->val = sum ;
-        convertBST( root ->left);
+         helper( root ->left);
     }
     TreeNode* convertBST(TreeNode* root) {
        helper( root);
