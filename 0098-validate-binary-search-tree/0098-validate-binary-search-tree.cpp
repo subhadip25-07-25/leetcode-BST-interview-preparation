@@ -11,15 +11,20 @@
  */
 class Solution {
 public:
-  
-    bool RangeBasedChecking( TreeNode* root , long long minrange , long long maxrange ){
-        if(root == nullptr) return true;
-            if( root ->val >= maxrange || root ->val <= minrange)return false ;
-             bool left = RangeBasedChecking( root ->left , minrange , root ->val);
-              bool  right = RangeBasedChecking( root->right , root->val , maxrange );
-            return ( left && right);
-    }
+   TreeNode*prev = nullptr;
     bool isValidBST(TreeNode* root) {
-       return  RangeBasedChecking( root  , LONG_MIN , LONG_MAX);
+        if( root == nullptr)return true;
+        if( !isValidBST( root ->left) ){// we can store the value in bool left also 
+            return false;
+        }
+        if( prev != nullptr && prev->val >= root->val){// inorder gives sorted order so prev value alawys smaller then root value 
+            return false ;
+        }
+        prev = root;
+         if( !isValidBST( root ->right) ){
+            return false;
+        }
+        // we can also store in in right and return left&& right
+        return true;
     }
 };
