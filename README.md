@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -147,9 +150,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
