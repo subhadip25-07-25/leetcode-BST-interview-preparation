@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -119,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
