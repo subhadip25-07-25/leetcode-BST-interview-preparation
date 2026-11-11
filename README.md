@@ -95,12 +95,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +170,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/subhadip25-07-25/leetcode-BST-interview-preparation/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
